@@ -24,8 +24,21 @@ this is the image ![image](https://www.pexels.com/photo/a-woman-sitting-on-a-sto
 
 > This is how a blockquote is formatted in markdown. 
 
-## this is js code 
+## this is inline js code 
 `console.log("hello world")`
+
+## block of code 
+```javascript
+function sayHello(name) {
+   console.log("Hello Mr " + name);
+   }
+```
+
+## Tables
+first header | second header
+------------ | ------------
+first cell | second cell
+third cell | fourth cell
 
 
 
