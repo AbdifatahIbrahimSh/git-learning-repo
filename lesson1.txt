@@ -1,1 +1,5 @@
-This is the lesson one of git, and we are learning the basics of git.
+This is the lesson one of git, and we are learning the basics of git. 
+The Basic commands of git:
+    - git init 
+    - git add 
+    - git commit 
