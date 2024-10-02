@@ -3,3 +3,5 @@ The Basic commands of git:
     - git init 
     - git add 
     - git commit 
+    - git restore 
+    - git restore --staged
